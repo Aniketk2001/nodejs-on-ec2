@@ -1,6 +1,7 @@
 # Node Hello World
 
 Simple node.js app that servers "A Monk in Cloud"
+"this is a node.js development project"
 
 Great for testing simple deployments on Cloud
 
